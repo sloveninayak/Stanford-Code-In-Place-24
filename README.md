@@ -1,1 +1,2 @@
 # Stanford-Code-In-Place-24
+##This project proposes the development of a secure password generator application using Python. The increasing need for strong and unique passwords for various online accounts necessitates a convenient tool for generating them. This application aims to address this need by providing a user-friendly platform to generate secure passwords. It will be used to create a user-friendly interface with options for password length, character type selection, and a display field for the generated password.
